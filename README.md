@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarra831
+- 👋 Hi, I’m Sarah
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently trying to learn NLP Natural Language processing and Information Retrieval
 - 📫 How to reach me: chamekh.sarra@gmail.com
